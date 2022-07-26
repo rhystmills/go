@@ -1,0 +1,9 @@
+[0m2021.11.12 10:27:37 INFO  Started: Metals version 0.10.9 in workspace '/Users/rhys_mills/code/personal/go' for client Visual Studio Code 1.61.2.[0m
+[0m2021.11.12 10:27:37 INFO  time: initialize in 0.38s[0m
+[0m2021.11.12 10:27:38 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.12 10:27:38 WARN  no build tool detected in workspace '/Users/rhys_mills/code/personal/go'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Nov 12, 2021 11:38:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 12, 2021 11:38:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.11.15 10:03:38 INFO  shutting down Metals[0m

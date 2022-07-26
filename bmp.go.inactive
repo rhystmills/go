@@ -1,0 +1,13 @@
+// package main
+
+// import (
+// 	"image"
+// 	"io"
+
+// 	"golang.org/x/image/bmp"
+// )
+
+// func bmpGenerate() {
+// 	var newImage image.Image
+// 	bmp.Encode(io.ByteWriter.WriteByte(), newImage)
+// }
